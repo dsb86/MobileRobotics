@@ -1176,6 +1176,12 @@ mobot_urdf_SOURCE_DIR:STATIC=/home/dsb86/ros_ws/src/learning_ros/Part_2/mobot_ur
 //The directory containing a CMake configuration file for move_base.
 move_base_DIR:PATH=/opt/ros/indigo/share/move_base/cmake
 
+//Value Computed by CMake
+my_stdr_control_BINARY_DIR:STATIC=/home/dsb86/ros_ws/build/my_stdr_control
+
+//Value Computed by CMake
+my_stdr_control_SOURCE_DIR:STATIC=/home/dsb86/ros_ws/src/my_stdr_control
+
 //The directory containing a CMake configuration file for nav_core.
 nav_core_DIR:PATH=/opt/ros/indigo/share/nav_core/cmake
 
@@ -1451,7 +1457,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=34
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=35
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

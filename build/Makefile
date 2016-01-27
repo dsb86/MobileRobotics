@@ -1645,6 +1645,19 @@ mobot_urdf_package/fast:
 .PHONY : mobot_urdf_package/fast
 
 #=============================================================================
+# Target rules for targets named my_stdr_control
+
+# Build rule for target.
+my_stdr_control: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 my_stdr_control
+.PHONY : my_stdr_control
+
+# fast build rule for target.
+my_stdr_control/fast:
+	$(MAKE) -f my_stdr_control/CMakeFiles/my_stdr_control.dir/build.make my_stdr_control/CMakeFiles/my_stdr_control.dir/build
+.PHONY : my_stdr_control/fast
+
+#=============================================================================
 # Target rules for targets named rosbag_to_matlab_package
 
 # Build rule for target.
@@ -3423,6 +3436,7 @@ help:
 	@echo "... minimal_subscriber"
 	@echo "... sleepy_minimal_publisher"
 	@echo "... mobot_urdf_package"
+	@echo "... my_stdr_control"
 	@echo "... rosbag_to_matlab_package"
 	@echo "... reactive_commander"
 	@echo "... stdr_control_package"

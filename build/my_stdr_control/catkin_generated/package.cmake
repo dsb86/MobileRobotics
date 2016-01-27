@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "my_stdr_control")
+set(my_stdr_control_MAINTAINER "dsb86 <dsb86@todo.todo>")
+set(my_stdr_control_DEPRECATED "")
+set(my_stdr_control_VERSION "0.0.0")
+set(my_stdr_control_BUILD_DEPENDS "roscpp" "geometry_msgs")
+set(my_stdr_control_RUN_DEPENDS "roscpp" "geometry_msgs")
+set(my_stdr_control_BUILDTOOL_DEPENDS "catkin")

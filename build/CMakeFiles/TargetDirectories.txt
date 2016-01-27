@@ -181,6 +181,7 @@
 /home/dsb86/ros_ws/build/learning_ros/Part_1/minimal_nodes/CMakeFiles/minimal_subscriber.dir
 /home/dsb86/ros_ws/build/learning_ros/Part_2/mobot_urdf/CMakeFiles/mobot_urdf_package.dir
 /home/dsb86/ros_ws/build/cwru/cwru_base/cwru_nav/CMakeFiles/move_base_gencfg.dir
+/home/dsb86/ros_ws/build/my_stdr_control/CMakeFiles/my_stdr_control.dir
 /home/dsb86/ros_ws/build/cwru/cwru_msgs/cwru_srv/CMakeFiles/nav_msgs_generate_messages_cpp.dir
 /home/dsb86/ros_ws/build/cwru/cwru_msgs/cwru_srv/CMakeFiles/nav_msgs_generate_messages_lisp.dir
 /home/dsb86/ros_ws/build/cwru/cwru_msgs/cwru_srv/CMakeFiles/nav_msgs_generate_messages_py.dir
