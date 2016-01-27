@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "minimal_robot_description")
+set(minimal_robot_description_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(minimal_robot_description_DEPRECATED "")
+set(minimal_robot_description_VERSION "0.0.0")
+set(minimal_robot_description_BUILD_DEPENDS )
+set(minimal_robot_description_RUN_DEPENDS )
+set(minimal_robot_description_BUILDTOOL_DEPENDS "catkin")

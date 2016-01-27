@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "abby_description")
+set(abby_description_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(abby_description_DEPRECATED "")
+set(abby_description_VERSION "0.0.0")
+set(abby_description_BUILD_DEPENDS "roscpp")
+set(abby_description_RUN_DEPENDS "roscpp")
+set(abby_description_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

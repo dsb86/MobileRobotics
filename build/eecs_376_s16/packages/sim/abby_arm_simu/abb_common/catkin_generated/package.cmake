@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "abb_common")
+set(abb_common_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(abb_common_DEPRECATED "")
+set(abb_common_VERSION "0.0.0")
+set(abb_common_BUILD_DEPENDS )
+set(abb_common_RUN_DEPENDS )
+set(abb_common_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cwru_urdf")
+set(cwru_urdf_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(cwru_urdf_DEPRECATED "")
+set(cwru_urdf_VERSION "0.0.0")
+set(cwru_urdf_BUILD_DEPENDS )
+set(cwru_urdf_RUN_DEPENDS )
+set(cwru_urdf_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

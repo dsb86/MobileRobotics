@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "minimal_joint_controller")
+set(minimal_joint_controller_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(minimal_joint_controller_DEPRECATED "")
+set(minimal_joint_controller_VERSION "0.0.0")
+set(minimal_joint_controller_BUILD_DEPENDS "catkin_simple" "gazebo_msgs" "sensor_msgs" "roscpp" "std_msgs")
+set(minimal_joint_controller_RUN_DEPENDS "catkin_simple" "gazebo_msgs" "sensor_msgs" "roscpp" "std_msgs")
+set(minimal_joint_controller_BUILDTOOL_DEPENDS "catkin")

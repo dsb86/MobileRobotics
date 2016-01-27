@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "example_action_server")
+set(example_action_server_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(example_action_server_DEPRECATED "")
+set(example_action_server_VERSION "0.0.0")
+set(example_action_server_BUILD_DEPENDS "roscpp" "std_msgs" "simple_action_client" "message_generation" "actionlib")
+set(example_action_server_RUN_DEPENDS "roscpp" "std_msgs" "actionlib" "simple_action_client" "message_runtime")
+set(example_action_server_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

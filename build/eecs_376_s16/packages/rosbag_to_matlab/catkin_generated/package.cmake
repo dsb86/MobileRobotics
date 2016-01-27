@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rosbag_to_matlab")
+set(rosbag_to_matlab_MAINTAINER "cswetenham <cswetenham@todo.todo>")
+set(rosbag_to_matlab_DEPRECATED "")
+set(rosbag_to_matlab_VERSION "0.0.0")
+set(rosbag_to_matlab_BUILD_DEPENDS "rospy")
+set(rosbag_to_matlab_RUN_DEPENDS "rospy")
+set(rosbag_to_matlab_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

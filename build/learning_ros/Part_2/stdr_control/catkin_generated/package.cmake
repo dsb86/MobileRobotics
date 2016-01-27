@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "stdr_control")
+set(stdr_control_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(stdr_control_DEPRECATED "")
+set(stdr_control_VERSION "0.0.0")
+set(stdr_control_BUILD_DEPENDS "roscpp" "geometry_msgs" "std_msgs")
+set(stdr_control_RUN_DEPENDS "roscpp" "geometry_msgs" "std_msgs")
+set(stdr_control_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

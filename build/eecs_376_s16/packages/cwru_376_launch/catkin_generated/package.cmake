@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cwru_376_launch")
+set(cwru_376_launch_MAINTAINER "Luc Bettaieb <bettaieb@case.edu>")
+set(cwru_376_launch_DEPRECATED "")
+set(cwru_376_launch_VERSION "0.0.1")
+set(cwru_376_launch_BUILD_DEPENDS )
+set(cwru_376_launch_RUN_DEPENDS )
+set(cwru_376_launch_BUILDTOOL_DEPENDS "catkin")

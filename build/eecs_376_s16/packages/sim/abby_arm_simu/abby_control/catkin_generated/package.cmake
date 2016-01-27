@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "abby_control")
+set(abby_control_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(abby_control_DEPRECATED "")
+set(abby_control_VERSION "0.0.0")
+set(abby_control_BUILD_DEPENDS "roscpp")
+set(abby_control_RUN_DEPENDS "roscpp")
+set(abby_control_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

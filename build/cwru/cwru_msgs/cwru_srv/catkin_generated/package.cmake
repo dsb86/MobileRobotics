@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cwru_srv")
+set(cwru_srv_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(cwru_srv_DEPRECATED "")
+set(cwru_srv_VERSION "0.0.0")
+set(cwru_srv_BUILD_DEPENDS "message_generation" "geometry_msgs" "nav_msgs" "roscpp" "std_msgs")
+set(cwru_srv_RUN_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "std_msgs" "message_runtime")
+set(cwru_srv_BUILDTOOL_DEPENDS "catkin" "message_generation")

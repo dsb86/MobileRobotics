@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lidar_alarm")
+set(lidar_alarm_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(lidar_alarm_DEPRECATED "")
+set(lidar_alarm_VERSION "0.0.0")
+set(lidar_alarm_BUILD_DEPENDS "roscpp" "sensor_msgs" "std_msgs")
+set(lidar_alarm_RUN_DEPENDS "roscpp" "sensor_msgs" "std_msgs")
+set(lidar_alarm_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

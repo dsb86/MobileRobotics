@@ -1,0 +1,8 @@
+prefix=/home/dsb86/ros_ws/install
+
+Name: catkin_simple
+Description: Description of catkin_simple
+Version: 0.1.1
+Cflags: 
+Libs: -L/home/dsb86/ros_ws/install/lib 
+Requires: catkin

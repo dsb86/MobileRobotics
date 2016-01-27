@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "mobot_urdf")
+set(mobot_urdf_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(mobot_urdf_DEPRECATED "")
+set(mobot_urdf_VERSION "0.0.0")
+set(mobot_urdf_BUILD_DEPENDS "roscpp" "std_msgs")
+set(mobot_urdf_RUN_DEPENDS "roscpp" "std_msgs")
+set(mobot_urdf_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

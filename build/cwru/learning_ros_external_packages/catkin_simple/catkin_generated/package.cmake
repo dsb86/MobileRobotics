@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "catkin_simple")
+set(catkin_simple_MAINTAINER "William Woodall <william@osrfoundation.org>, Dirk Thomas <dthomas@osrfoundation.org>")
+set(catkin_simple_DEPRECATED "")
+set(catkin_simple_VERSION "0.1.1")
+set(catkin_simple_BUILD_DEPENDS )
+set(catkin_simple_RUN_DEPENDS "catkin")
+set(catkin_simple_BUILDTOOL_DEPENDS "catkin")

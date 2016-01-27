@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "example_parameter_server")
+set(example_parameter_server_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(example_parameter_server_DEPRECATED "")
+set(example_parameter_server_VERSION "0.0.0")
+set(example_parameter_server_BUILD_DEPENDS "roscpp" "std_msgs")
+set(example_parameter_server_RUN_DEPENDS "roscpp" "std_msgs")
+set(example_parameter_server_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

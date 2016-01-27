@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "example_ros_class")
+set(example_ros_class_MAINTAINER "wyatt <wyatt@todo.todo>")
+set(example_ros_class_DEPRECATED "")
+set(example_ros_class_VERSION "0.0.0")
+set(example_ros_class_BUILD_DEPENDS "roscpp" "std_msgs" "std_srvs")
+set(example_ros_class_RUN_DEPENDS "roscpp" "std_msgs" "std_srvs")
+set(example_ros_class_BUILDTOOL_DEPENDS "catkin" "catkin_simple")

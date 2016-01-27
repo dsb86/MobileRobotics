@@ -1,0 +1,8 @@
+prefix=/home/dsb86/ros_ws/install
+
+Name: cwru_maps
+Description: Description of cwru_maps
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dsb86/ros_ws/install/lib 
+Requires: 
